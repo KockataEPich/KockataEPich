@@ -1,5 +1,5 @@
 
-# Hello there 👋, I am Kostadin Belchev
+# Hello there 👋, I am Kostadin 
 
 **I am very interested in graphs, games and AI** 
 
