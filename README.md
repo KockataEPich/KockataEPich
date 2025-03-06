@@ -3,7 +3,7 @@
 
 **I am very interested in graphs, games and AI** 
 
-- 🔭 I’m currently working on my game **MazingLabyrinthRun** 
+- 🔭 Always on the look for the stars
 - 📫 How to reach me: kostadinbelchev99@gmail.com
 
 ## You can connect with me on:
